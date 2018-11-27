@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496906398 source:e:\university\Прога\my_labs\lab6_graphen\grm\graph.cpp
+	<bits/stdc++.h>
+	"graph.h"
+
+1496911754 e:\university\Прога\my_labs\lab6_graphen\grm\graph.h
+
+1496912477 source:e:\university\Прога\my_labs\lab6_graphen\grm\main.cpp
+	<bits/stdc++.h>
+	"graph.h"
+
